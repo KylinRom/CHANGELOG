@@ -10,3 +10,7 @@ This log is mainly about team news. Please keep it up-to-date.
 20141115 @xxxifan
 ---------------------
 合并CM build，引入vendor/kylin，这样后面就可以用CM的device，修改少量变量名即可使用。暂时没有合并完成，rooservice还需要修改。
+
+20141115 @xxxifan
+---------------------
+build合并完成，现可以引用CM的device，修改相关名称为kylin即可使用。device仓库名称请按照device_[厂商]_[机型]的格式来创建
